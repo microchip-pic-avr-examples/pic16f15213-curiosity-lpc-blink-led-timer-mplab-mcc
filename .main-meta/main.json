@@ -4,13 +4,13 @@
     "content": {
         "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.pic16f15213-curiosity-lpc-blink-led-timer-mplab-mcc",
-        "version": " ",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "Blink LED using PIC16F15213 Microcontroller",
         "projectName": "pic16f15213-curiosity-lpc-blink-led-timer-mplab-mcc",
         "shortDescription": "This example demonstrates how to configure PIC microcontroller 8 bit timer in interrupt mode to generate periodic timeouts and a GPIO to toggle LED Compatible PIC16F152xx family of MCUs are PIC16F15214 PIC16F15223 PIC16F15244 PIC16F15254 PIC16F15276",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ">=6.00.0"
+            "semverRange": ">=6.0.0"
         },
         "compiler": [
             {
@@ -19,12 +19,12 @@
             }
         ],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "PIC16F1xxxx_DFP",
+            "semverRange": "^1.9.163"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": ">=5.1.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -37,8 +37,8 @@
             }
         },
         "author": "Srinivasa K R",
-        "peripherals": [],
-        "keywords": [],
+        "peripherals": ["TMR"],
+        "keywords": ["LED","Timer"],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
