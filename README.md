@@ -39,19 +39,14 @@ In this code example, PIC16F15213 microcontroller timer peripheral is configured
 
 ## Software Used
 
-- MPLAB® X IDE [v6.0.0 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide)
-- MPLAB® XC8 Compiler [v2.36.0 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers)
-- MPLAB® Code Configurator (MCC) Device Libraries PIC10/PIC12/PIC16/PIC18 MCU [v or newer](https://www.microchip.com/mplab/mplab-code-configurator)
-- Microchip PIC16F1xxxx Series Device Support [v1.8.149 or newer](https://packs.download.microchip.com/) 
-- Standalone Data Visualizer [v2.20.674 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/embedded-software-center/atmel-data-visualizer)
-- MPLAB® Code Configurator (MCC) [ v5.1.1 or newer](https://www.microchip.com/mplab/mplab-code-configurator)
-  -- TMR0 v4.0.7
-  -- GPIO/Pins drivers v3.2.2
+- MPLAB® X IDE [6.0.0 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide)
+- MPLAB® XC8 Compiler [2.36.0 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers)
+- Microchip PIC16F1xxxx Series Device Support [1.9.163 or newer](https://packs.download.microchip.com/) 
+- MPLAB® Code Configurator (MCC) [5.1.1 or newer](https://www.microchip.com/mplab/mplab-code-configurator)
+- TMR0 MCC Melody driver 4.0.7
+- GPIO/Pins drivers MCC Melody driver 3.2.2
   
-**Note:** 
-
- 1. ***For running this demo, the installed tool version should be same or later. This example is not tested with the previous versions.***
-
+**Note: For running this demo, the installed tool version should be same or later. This example is not tested with the previous versions.**
 
 ## Hardware Used
 
@@ -84,7 +79,7 @@ Following table shows the pin connection details of the hardware setup
 * Click on "Make and Program Device" to program the MCU.
 * The LED connected to pin RA4 start toggling with a periodicity of one second.
 
-**Note** : ***Refer MPLAB X user guide for more details on MPLAB X IDE.***
+**Note** : ***Refer [MPLAB X user guide](https://ww1.microchip.com/downloads/en/devicedoc/50002027d.pdf) for more details on MPLAB X IDE.***
 
 ## Peripheral configurations using MCC
 
