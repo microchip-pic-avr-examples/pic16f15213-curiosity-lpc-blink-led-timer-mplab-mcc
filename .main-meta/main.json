@@ -38,7 +38,7 @@
         },
         "author": "Srinivasa K R",
         "peripherals": ["TMR"],
-        "keywords": ["LED","Timer"],
+        "keywords": ["LED","TCA"],
         "additionalData": {
             "longDescription": {
                 "metaDataVersion": "1.0.0",
