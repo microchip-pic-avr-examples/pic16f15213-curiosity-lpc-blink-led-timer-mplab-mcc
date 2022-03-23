@@ -41,7 +41,7 @@ In this code example, PIC16F15213 microcontroller timer peripheral is configured
 
 - MPLAB® X IDE [6.0.0 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide)
 - MPLAB® XC8 Compiler [2.36.0 or newer](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers)
-- Microchip PIC16F1xxxx Series Device Support [1.9.163 or newer](https://packs.download.microchip.com/) 
+- Microchip PIC16F1xxxx_DFP Series Device Support [1.9.163 or newer](https://packs.download.microchip.com/) 
 - MPLAB® Code Configurator (MCC) [5.1.1 or newer](https://www.microchip.com/mplab/mplab-code-configurator)
 - TMR0 MCC Melody driver 4.0.7
 - GPIO/Pins drivers MCC Melody driver 3.2.2
