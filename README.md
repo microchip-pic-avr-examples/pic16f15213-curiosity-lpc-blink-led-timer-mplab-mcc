@@ -13,13 +13,13 @@ The repository provides “Blink LED using PIC16F15213 Microcontroller” code e
 
 The code example demonstrates how to use an 8-bit timer in interrupt mode to generate periodic timeouts and how to configure a GPIO of the microcontroller to toggle LED at required interrupt event.
 
-This code example is associated with “Migration from PIC12F to PIC16F15244 Microcontroller Family” guide and acts as a reference showcasing the code example, which is migrated from the PIC12F1572 MCU code example, this document also showcasing the required steps to be followed to migrate application firmware from PIC12F1572 MCU to PIC16F15244 family microcontrollers.
+This code example is associated with “Migration from PIC12F to PIC16F15244 Microcontroller Family” guide and acts as a reference showcasing the code example, which is migrated from the PIC12F1572 MCU code example, this document also showcasing the required steps to be followed to migrate application firmware from PIC12F1572 MCU to PIC16F152xx family microcontrollers.
 
-**Note:** ***This example could be generated with all the pin variants of PIC16F15244 family microcontrollers.***
+**Note:** ***This example could be generated with all the pin variants of PIC16F152xx family microcontrollers.***
 
 ## Related Documentation
 
-More details on PIC16F15244 family microcontrollers and code examples can be found at the following links:
+More details on PIC16F152xx family microcontrollers and code examples can be found at the following links:
 
 - [Blink LED with Timer and Interrupt Using PIC16F15213](https://github.com/microchip-pic-avr-examples/pic16f15213-curiosity-lpc-blink-led-timer-mplab-mcc)
 - [Migration from PIC12F to PIC16F15244 Microcontroller Family](https://www.microchip.com/DS40002319) 
