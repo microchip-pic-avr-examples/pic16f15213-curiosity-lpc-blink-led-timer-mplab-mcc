@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "displayName": "Blink LED using PIC16F15213 Microcontroller",
         "projectName": "pic16f15213-curiosity-lpc-blink-led-timer-mplab-mcc",
-        "shortDescription": "This example demonstrates how to configure PIC microcontroller 8 bit timer in interrupt mode to generate periodic timeouts and a GPIO to toggle LED Compatible PIC16F152xx family of MCUs are PIC16F15214 PIC16F15223 PIC16F15244 PIC16F15254 PIC16F15276",
+        "shortDescription": "This example demonstrates how to configure PIC microcontroller 8 bit timer in interrupt mode to generate periodic timeouts and a GPIO to toggle LED. Compatible PIC16F152xx family of MCUs are PIC16F15214, PIC16F15223, PIC16F15244, PIC16F15254, PIC16F15276",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=6.0.0"
